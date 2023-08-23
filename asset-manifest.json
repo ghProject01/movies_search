@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ghProject01/movies_search.git/static/css/main.ba87a795.css",
+    "main.js": "/ghProject01/movies_search.git/static/js/main.0d0baaa8.js",
+    "index.html": "/ghProject01/movies_search.git/index.html",
+    "main.ba87a795.css.map": "/ghProject01/movies_search.git/static/css/main.ba87a795.css.map",
+    "main.0d0baaa8.js.map": "/ghProject01/movies_search.git/static/js/main.0d0baaa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba87a795.css",
+    "static/js/main.0d0baaa8.js"
+  ]
+}
